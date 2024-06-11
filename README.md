@@ -43,14 +43,14 @@ This project involved building an ETL pipeline utilizing Python, Pandas, and Pyt
     * contact_id
     * company_name
     * description
-    * goal (float)
-    * pledged (float)
+    * goal
+    * pledged
     * outcome
     * backers_count
     * country
     * currency
-    * launch_date (datetime)
-    * end_date (datetime)
+    * launch_date 
+    * end_date 
     * category_id
     * subcategory_id
 # 3. Create Contact Data Frame:
